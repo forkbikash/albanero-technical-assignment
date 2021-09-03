@@ -1,0 +1,23 @@
+Write APIs for simulating twitter's user and follower functionality.
+
+1. API to add users (Signup)
+	Fields for user:
+		username (should be unique for each user)
+		full name
+		email address
+		password
+2. API to see all users (so that you can follow them)
+3. API to follow one user using his username
+4. API to see who is following me (followers)
+5. API to see who am I following me
+6. API to add a post - the post should start appearing in the followers' feed.
+7. API to get my feed (posts done by me and by the users whom I am following)
+ 
+Points to note: 
+1. APIs should be written in NodeJS
+2. Feel free to use any database and design your table schema
+3. Feel free to take help from internet
+4. Albanero won't be able to provide any help in the assignment
+5. Code should be pushed to github 10 mins before the deadline
+	Repository name:  albanero-technical-assignment
+6. The repository URL should be shared in Technical Assignment mail.
